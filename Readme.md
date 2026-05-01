@@ -3,13 +3,13 @@
 A lightweight Python client and demonstration script for the **Nasuni Access Anywhere (NAA)** API.
 
 ## 📝 Background
-Nasuni Access Anywhere (NAA) was previously known as **StorageMadeEasy (SME)** and originally started as **SMEStorage**. This project provides a simple implementation to interact with it NAA API.
+Nasuni Access Anywhere (NAA) was previously known as **StorageMadeEasy (SME)** and originally started as **SMEStorage**. This project provides a simple implementation to interact with NAA API.
 
 This repository is intended for developers who want to understand the core logic of the NAA API and integrate cloud-spanning capabilities into their own applications.
 
 ## ✨ Features
 * **Authentication**: Easy token retrieval via `getToken`.
-* **File Management**: Create folders, list files, and manage metadata.
+* **File Management**: Create folders, list files, refresh folders, upload files, download files, copy files/folders, and manage metadata.
 * **Cloud Integration**: Compatible with the unified namespace provided by NAA.
 
 ## 🚀 Quick Start
