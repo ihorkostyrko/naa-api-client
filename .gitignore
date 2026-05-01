@@ -1,0 +1,8 @@
+*.code-workspace
+.vscode
+docs/
+.venv/
+src/naa_scripts/__pycache__/
+src/naa_scripts/config.json
+tmp/
+*.log
